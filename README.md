@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm AnthonyLHall!
 
-<!--
-**AnthonyLHall/AnthonyLHall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **RPA Developer** | 💻 **Python Enthusiast** | 🤖 **UiPath Specialist**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm an RPA developer who loves automating tasks and solving problems through code. I genuinely enjoy understanding how programming works—from building bots at work to tinkering with Python projects for fun, I’m passionate about making technology work smarter for everyone.
+
+- **Top Skills:**  
+  🐍 Python  
+  🤖 UiPath  
+- **What I Do:**  
+  Automate, optimize, and innovate—at work and as a hobby!
+
+---
+
+### ⚡ Fun Fact
+
+I sometimes program excessively… or just do something dumb with code for fun!
+
+
+Thanks for viewing friends :)  
