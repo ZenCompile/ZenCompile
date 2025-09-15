@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ZenCompile!
+ZenCompile
 
 🚀 **RPA Developer** | 💻 **Python Enthusiast** | 🤖 **UiPath Specialist**
 
@@ -17,8 +17,6 @@ I'm a Programmer who loves automating tasks and solving problems through code. I
   Automate, optimize, and innovate—at work and as a hobby!
 
 ---
-
-### ⚡ Fun Fact
 
 I sometimes program excessively… or just do something dumb with code for fun!
 
